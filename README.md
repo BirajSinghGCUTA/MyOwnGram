@@ -12,6 +12,10 @@ The following **required** functionality is completed:
 - [X] User can log in and log out of his or her account.
 - [X] The current signed in user is persisted across app restarts.
 - [X] User can take a photo, add a caption, and post it to "Instagram".
+- [X] User can view the last 20 posts submitted to "Instagram".
+- [X] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
+- [X] User can pull to refresh the last 20 posts submitted to "Instagram".
+
 
 The following **optional** features are implemented:
 
